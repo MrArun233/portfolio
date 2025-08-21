@@ -65,7 +65,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/16I23SPqrjpSBeclNW0H3lg_Iq5g82msD/view?usp=drivesdk"
               className="btn-resume"
               onClick={() => setOpen(false)}
             >
